@@ -1,6 +1,6 @@
 """
 DocString.
-Escrever o que eu quiser.
+Escrever o que eu quiser. Por exemplo isso aqui
 
 
 """
@@ -14,3 +14,4 @@ Usar para escrever um comentário
 print(123) # Na frente (essa linha faz isso)
 # Abaixo 
 print(456)
+print("hello")

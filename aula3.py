@@ -12,7 +12,7 @@ print('Xander Ricardo')
 print("Xander Ricardo")
  #Fica l
 # Escape
-print('Xander \"Ricardo\"')
+print("Xander \"Ricardo\"")
 #r
 print(r"Xander \"Ricardo\"") #Fica mais limpo o código
 print("Xander \'Ricardo\'")
